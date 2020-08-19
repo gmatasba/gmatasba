@@ -1,4 +1,15 @@
-### Hi there 👋
+## Gabriel Matas Barceló
+* Born and raised in Mallorca, Spain
+* I love playing basketball 🏀, videogames 🎮 and RPG  🎲
+
+## Studies
+* Computer Engineer by Universitat de les Illes Balears
+* Erasmus student at Åbo Akademi University
+* Master in Cibersecurity by Universidad Carlos III
+
+## Professional
+* Junior Back-end Developer 🔙
+* IT Technician 🔙
 
 <!--
 **gmatasba/gmatasba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
