@@ -7,9 +7,15 @@
 * Erasmus student at Åbo Akademi University
 * Master in Cibersecurity by Universidad Carlos III
 
+## Languages
+* Native in Spanish and Catalan
+* Fluent in English
+* Learning German
+
 ## Professional
 * Junior Back-end Developer 🔙
 * IT Technician 🔙
+* IT Risk Consultant
 
 <!--
 **gmatasba/gmatasba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
