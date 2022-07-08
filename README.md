@@ -15,7 +15,8 @@
 ## Professional
 * Junior Back-end Developer 🔙
 * IT Technician 🔙
-* IT Risk Consultant
+* IT Security & Risk Consultant 🔙
+* Senior Security Officer
 
 <!--
 **gmatasba/gmatasba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
